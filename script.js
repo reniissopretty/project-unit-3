@@ -21,7 +21,7 @@ elementToClickTwo.onclick=function(){
 elementToClickThree.onclick=function() {
   elementToChangeThree.style.display="block";}
 
-
+ 
 
 /* When you're ready to make event handlers, uncomment the code below. Then fill in the blanks with the correct variables!
 INSERT_VARIABLE.onclick=function(){
